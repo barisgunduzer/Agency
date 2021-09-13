@@ -8,7 +8,7 @@ const app = express();
 
 //Connect DB
 mongoose.connect(
-    'mongodb://localhost/agency-db',
+    'mongodb+srv://agency-db-user:CsUKwKfrg3OPl3Vb@cluster0.9qccv.mongodb.net/agency-db?retryWrites=true&w=majority',
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
