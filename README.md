@@ -15,6 +15,6 @@ https://agency-portfolio-app.herokuapp.com/
 
 #### Useful Links:
 
-- https://nodejs.org/en/
-- https://www.npmjs.com/package/express
-- https://www.npmjs.com/package/mongoose
+https://nodejs.org/en/ <br>
+https://www.npmjs.com/package/express <br>
+https://www.npmjs.com/package/mongoose
