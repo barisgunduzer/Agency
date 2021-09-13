@@ -1,18 +1,20 @@
-## Agency Project (Node.js)
+# Agency (Node.js)
 
-Agency single page web app for managing business portfolio. (Express, EJS, Mongoose)
+Agency simple and single web app for kickstart to Node.js. (Express, EJS, Mongoose)
+#### Usage:
 
-npm packages:
+- clone and run `npm i` && `npm start`
 
-* Express.js
-* Mongoose
+#### Heroku:
 
-using:
+https://agency-portfolio-app.herokuapp.com/
 
-* clone and run npm i && npm start
+|                                |                                                |                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img width="600" alt="" src="screenshots/1.png"> | <img width="600" alt="" src="screenshots/2.png"> | <img width="600" alt="" src="screenshots/3.png"> | <img width="1604" alt="" src=""> |
 
-### Heroku
+#### Useful Links:
 
----
-
-##
+https://nodejs.org/en/
+https://www.npmjs.com/package/express
+https://www.npmjs.com/package/mongoose
