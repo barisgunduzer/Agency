@@ -3,7 +3,7 @@
 Agency simple and single web app for kickstart to Node.js. (Express, EJS, Mongoose)
 #### Usage:
 
-- clone and run `npm i` && `npm start`
+clone and run `npm i` && `npm start`
 
 #### Heroku:
 
